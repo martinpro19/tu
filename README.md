@@ -1,2 +1,1 @@
-# tu
-mi declaracion
+# declaracion
